@@ -1,0 +1,25 @@
+h1 {
+  color: orange;
+}
+h2{
+  color: white;
+}
+h3 {
+  font-weight: bold;
+}
+.text, .boldblue {
+  font-family: sans-serif;
+}
+.boldblue{
+  color: blue;
+  font-weight: bold;
+}
+#brushes{
+  background-color: #00fa9a;
+}
+#frames {
+  background-color: lightcoral;
+}
+#paints {
+  background-color: skyblue;
+}
